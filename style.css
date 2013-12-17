@@ -28,7 +28,7 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"] {
 */
-.icon-turtle, .icon-link, .icon-mushroom, .icon-yoshi_egg, .icon-trforce, .icon-warp_tunnel {
+.icon-turtle, .icon-link, .icon-mushroom, .icon-yoshi_egg, .icon-trforce, .icon-warp_tunnel, .icon-shyguy, .icon-mario {
 	font-family: 'upupdowndownleftright';
 	speak: none;
 	font-style: normal;
@@ -55,4 +55,10 @@ you can use the generic selector below, but it's slower:
 }
 .icon-warp_tunnel:before {
 	content: "\e005";
+}
+.icon-shyguy:before {
+	content: "\e006";
+}
+.icon-mario:before {
+	content: "\e007";
 }

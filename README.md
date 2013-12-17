@@ -12,12 +12,13 @@ Icons Created -
 * Zelda - Triforce
 * Super Mario Bros - Warp Tunnel
 * Super Mario Bros - Yoshi Egg
+* Super Mario Bros - Shy Guy
+* Super Mario Bros - Mario
 
 
 To Do List -
 
 * Metroid
-* Mario
 * Yoshi
 * Ryu
 * Requests??
