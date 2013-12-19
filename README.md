@@ -14,6 +14,8 @@ Icons Created -
 * Super Mario Bros - Yoshi Egg
 * Super Mario Bros - Shy Guy
 * Super Mario Bros - Mario
+* Super Mario Bros - Bullet Bill
+* Super Mario Bros - B'bomb
 
 
 To Do List -
