@@ -28,7 +28,7 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"] {
 */
-.icon-questionblock, .icon-turtle, .icon-link, .icon-mushroom, .icon-yoshi_egg, .icon-trforce, .icon-warp_tunnel, .icon-shyguy, .icon-mario, .icon-bomber, .icon-bulletbill, .icon-lakitu {
+.icon-questionblock, .icon-turtle, .icon-link, .icon-mushroom, .icon-yoshi_egg, .icon-trforce, .icon-warp_tunnel, .icon-shyguy, .icon-mario, .icon-bomber, .icon-bulletbill, .icon-lakitu, .icon-yoshi_face, .icon-boo {
 	font-family: 'upupdowndownleftright';
 	speak: none;
 	font-style: normal;
@@ -73,4 +73,10 @@ you can use the generic selector below, but it's slower:
 }
 .icon-lakitu:before {
 	content: "\e00b";
+}
+.icon-yoshi_face:before {
+	content: "\e00c";
+}
+.icon-boo:before {
+	content: "\e00d";
 }
