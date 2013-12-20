@@ -16,6 +16,8 @@ Icons Created -
 * Super Mario Bros - Mario
 * Super Mario Bros - Bullet Bill
 * Super Mario Bros - B'bomb
+* Super Mario Bros - Lakitu (cloud guy)
+* Super Mario Bros - Question Block
 
 
 To Do List -
