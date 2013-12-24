@@ -16,6 +16,8 @@ Icons Created -
 * Super Mario Bros - B'bomb
 * Super Mario Bros - Lakitu (cloud guy)
 * Super Mario Bros - Question Block
+* Super Mario Bros - Boo
+* Super Mario Bros - Yoshi
 * Zelda - Triforce
 * Zelda - Link (Link to the Past w/ Master Sword)
 
@@ -23,9 +25,7 @@ Icons Created -
 To Do List -
 
 * Metroid
-* Yoshi
 * Ryu
-* Requests??
 * Zelda
 * Sheik (http://en.wikipedia.org/wiki/Sheik_(Legend_of_Zelda)#Sheik)
 * Midna (http://zeldawiki.org/Midna)
@@ -36,14 +36,10 @@ To Do List -
 * Toad
 * The turtle dudes
 * The flying turtle dudes
-* The guy on the cloud
 * Goombas
-* Bullet bill
 * The fish (http://www.mariowiki.com/Cheep_Cheep)
 * Chomp (http://www.mariowiki.com/Chain_Chomp)
 * Bowser
-* Boo
-* Yoshi face
 * Daisy
 * Lumas (http://www.mariowiki.com/Luma_(species))
 * All the various items (question mark boxes, coins, stars, 1 up mushrooms, fire/ice flowers, raccoon leaf etc.)
