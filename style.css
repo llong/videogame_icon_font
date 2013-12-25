@@ -28,7 +28,7 @@ Instead of a list of all class selectors,
 you can use the generic selector below, but it's slower:
 [class*="icon-"] {
 */
-.icon-zelda, .icon-yoshi, .icon-yoshi_face, .icon-yoshi_egg, .icon-warp_tunnel, .icon-turtle, .icon-trforce, .icon-shyguy, .icon-questionblock, .icon-mushroom, .icon-mario, .icon-link, .icon-lakitu, .icon-bulletbill, .icon-boo, .icon-bomber {
+.icon-zelda, .icon-yoshi, .icon-yoshi_face, .icon-yoshi_egg, .icon-warp_tunnel, .icon-turtle, .icon-trforce, .icon-shyguy, .icon-questionblock, .icon-mushroom, .icon-mario, .icon-link, .icon-lakitu, .icon-bulletbill, .icon-boo, .icon-bomber, .icon-ps_controller_dark, .icon-ps_controller_light, .icon-snes_controller, .icon-nes_controller {
 	font-family: 'upupdowndownleftright';
 	speak: none;
 	font-style: normal;
@@ -85,4 +85,16 @@ you can use the generic selector below, but it's slower:
 }
 .icon-bomber:before {
 	content: "\e00f";
+}
+.icon-ps_controller_dark:before {
+	content: "\e010";
+}
+.icon-ps_controller_light:before {
+	content: "\e011";
+}
+.icon-snes_controller:before {
+	content: "\e012";
+}
+.icon-nes_controller:before {
+	content: "\e013";
 }

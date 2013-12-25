@@ -17,16 +17,23 @@ Icons Created -
 * Super Mario Bros - Lakitu (cloud guy)
 * Super Mario Bros - Question Block
 * Super Mario Bros - Boo
+* Super Mario Bros - Yoshi Face
 * Super Mario Bros - Yoshi
+
 * Zelda - Triforce
 * Zelda - Link (Link to the Past w/ Master Sword)
+* Zelda - Zelda
+
+* NES Controller
+* SNES Controller
+* Playstation Controller Light
+* Playstation Controller Dark
 
 
 To Do List -
 
 * Metroid
 * Ryu
-* Zelda
 * Sheik (http://en.wikipedia.org/wiki/Sheik_(Legend_of_Zelda)#Sheik)
 * Midna (http://zeldawiki.org/Midna)
 * Metroid
@@ -42,10 +49,10 @@ To Do List -
 * Bowser
 * Daisy
 * Lumas (http://www.mariowiki.com/Luma_(species))
-* All the various items (question mark boxes, coins, stars, 1 up mushrooms, fire/ice flowers, raccoon leaf etc.)
+* All the various items (coins, stars, 1 up mushrooms, fire/ice flowers, raccoon leaf etc.)
 Paper Mario characters (they would probably look pretty cool in that font format (http://artpoptrainer.deviantart.com/art/Paper-Mario* -Main-Cast-WIP-347686334))
 * The Mario kart line up (Donkey Kong, Wario, Warluigi etc.)
-* All the different contorllers (NES, SNES, N64, Gamecube, Wii, Wii U)
+* All the different contorllers (N64, Gamecube, Wii, Wii U)
 * All the different Gameboys (original, advance, DS)
 * Super Smash Brothers Line Up (http://en.wikipedia.org/wiki/Super_Smash_Bros._for_Nintendo_3DS_and_Wii_U)
 * Pikman would be good for this
